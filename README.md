@@ -1503,7 +1503,7 @@ local GlowImage = Create("ImageLabel", MainFrame, {
     Position = UDim2.fromScale(0.5, 0.5),
     AnchorPoint = Vector2.new(0.5, 0.5),
     BackgroundTransparency = 1,
-    Image = "rbxassetid://120618051891245",
+    Image = "rbxassetid://72821640959643",
     ImageTransparency = 0,
     ZIndex = 0
 })
@@ -1524,7 +1524,7 @@ local GlowImage = Create("ImageLabel", MainFrame, {
     Size = UDim2.fromOffset(24, 24),
     Position = UDim2.new(0, 2, 0, 0),
     BackgroundTransparency = 1,
-    Image = "rbxassetid://120618051891245",
+    Image = "rbxassetid://92063941639809",
     ImageTransparency = 0,
     ZIndex = 10
 })
