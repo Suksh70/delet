@@ -23,27 +23,27 @@ local redzlib = {
 Themes = {
     Darker = {
         ["Color Hub 1"] = ColorSequence.new({
-            ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)),
-            ColorSequenceKeypoint.new(0.50, Color3.fromRGB(255, 255, 255)),
-            ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))
+            ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 0)),
+            ColorSequenceKeypoint.new(0.50, Color3.fromRGB(255, 0, 0)),
+            ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 0))
         }),
-        ["Color Hub 2"] = Color3.fromRGB(255, 255, 255),
-        ["Color Stroke"] = Color3.fromRGB(255, 255, 255),
+        ["Color Hub 2"] = Color3.fromRGB(255, 0, 0),
+        ["Color Stroke"] = Color3.fromRGB(255, 0, 0),
         ["Color Theme"] = Color3.fromRGB(15, 15, 15),
-        ["Color Text"] = Color3.fromRGB(255, 255, 255),
-        ["Color Dark Text"] = Color3.fromRGB(255, 255, 255)
+        ["Color Text"] = Color3.fromRGB(255, 0, 0),
+        ["Color Dark Text"] = Color3.fromRGB(255, 0, 0)
     },
     Dark = {  
         ["Color Hub 1"] = ColorSequence.new({  
-            ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)),
-            ColorSequenceKeypoint.new(0.50, Color3.fromRGB(255, 255, 255)),
-            ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))  
+            ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 0)),
+            ColorSequenceKeypoint.new(0.50, Color3.fromRGB(255, 0, 0)),
+            ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 0))  
         }),  
-        ["Color Hub 2"] = Color3.fromRGB(255, 255, 255),  
-        ["Color Stroke"] = Color3.fromRGB(255, 255, 255),  
+        ["Color Hub 2"] = Color3.fromRGB(255, 0, 0),  
+        ["Color Stroke"] = Color3.fromRGB(255, 0, 0),  
         ["Color Theme"] = Color3.fromRGB(10, 10, 10),  
-        ["Color Text"] = Color3.fromRGB(255, 255, 255),  
-        ["Color Dark Text"] = Color3.fromRGB(255, 255, 255)  
+        ["Color Text"] = Color3.fromRGB(255, 0, 0),  
+        ["Color Dark Text"] = Color3.fromRGB(255, 0, 0)  
     },
 },
 
