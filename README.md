@@ -31,7 +31,7 @@ Themes = {
         ["Color Stroke"] = Color3.fromRGB(255, 0, 0),
         ["Color Theme"] = Color3.fromRGB(15, 15, 15),
         ["Color Text"] = Color3.fromRGB(255, 0, 0),
-        ["Color Dark Text"] = Color3.fromRGB(255, 0, 0)
+        ["Color Dark Text"] = Color3.fromRGB(255, 215, 0)
     },
     Dark = {  
         ["Color Hub 1"] = ColorSequence.new({  
@@ -42,7 +42,7 @@ Themes = {
         ["Color Hub 2"] = Color3.fromRGB(255, 0, 0),  
         ["Color Stroke"] = Color3.fromRGB(255, 0, 0),  
         ["Color Theme"] = Color3.fromRGB(10, 10, 10),  
-        ["Color Text"] = Color3.fromRGB(255, 215, 0),  
+        ["Color Text"] = Color3.fromRGB(255, 0, 0),  
         ["Color Dark Text"] = Color3.fromRGB(255, 215, 0)  
     },
 },
