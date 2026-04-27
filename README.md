@@ -31,7 +31,7 @@ Themes = {
         ["Color Stroke"] = Color3.fromRGB(255, 0, 0),
         ["Color Theme"] = Color3.fromRGB(15, 15, 15),
         ["Color Text"] = Color3.fromRGB(255, 0, 0),
-        ["Color Dark Text"] = Color3.fromRGB(255, 0, 0)
+        ["Color Dark Text"] = Color3.fromRGB(255, 215, 0)
     },
     Dark = {  
         ["Color Hub 1"] = ColorSequence.new({  
@@ -43,7 +43,7 @@ Themes = {
         ["Color Stroke"] = Color3.fromRGB(255, 0, 0),  
         ["Color Theme"] = Color3.fromRGB(10, 10, 10),  
         ["Color Text"] = Color3.fromRGB(255, 0, 0),  
-        ["Color Dark Text"] = Color3.fromRGB(255, 215, 0)  
+        ["Color Dark Text"] = Color3.fromRGB(255, 0, 0)  
     },
 },
 
@@ -1465,7 +1465,7 @@ local WindowBackground = Create("ImageLabel", MainFrame, {
     Size = UDim2.new(1, 0, 1, 0),
     Position = UDim2.new(0, 0, 0, 0),
     BackgroundTransparency = 1,
-    Image = "rbxassetid://98233136941826", 
+    Image = "rbxassetid://106657282893223", 
     ImageTransparency = 0.1,
     ScaleType = Enum.ScaleType.Crop,
     ZIndex = 0
@@ -1503,7 +1503,7 @@ local GlowImage = Create("ImageLabel", MainFrame, {
     Position = UDim2.fromScale(0.5, 0.5),
     AnchorPoint = Vector2.new(0.5, 0.5),
     BackgroundTransparency = 1,
-    Image = "rbxassetid://76498282033632",
+    Image = "rbxassetid://120618051891245",
     ImageTransparency = 0,
     ZIndex = 0
 })
@@ -1524,7 +1524,7 @@ local GlowImage = Create("ImageLabel", MainFrame, {
     Size = UDim2.fromOffset(24, 24),
     Position = UDim2.new(0, 2, 0, 0),
     BackgroundTransparency = 1,
-    Image = "rbxassetid://132345390907066",
+    Image = "rbxassetid://120618051891245",
     ImageTransparency = 0,
     ZIndex = 10
 })
